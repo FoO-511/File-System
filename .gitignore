@@ -4,5 +4,6 @@
 */*.dd
 */CMakeCache.txt
 
+*/work*.*
 
 .vscode/*
